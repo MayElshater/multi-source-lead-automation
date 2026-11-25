@@ -1,4 +1,4 @@
-# Lead Automation Platform
+# Multi-Source Lead Automation Platform
 
 An n8n-based lead automation assessment covering multi-source intake, validation and identity resolution, enrichment and qualification, post-qualification routing, follow-up, booking/conversion, recovery, and SLA monitoring.
 
